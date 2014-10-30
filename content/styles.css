@@ -23,26 +23,9 @@ html, body {
 	margin: 0;
 }
 
-body {
-	background-image: url("images/BG.jpg");
-	background-position: 0% 0%, 0% 100%, 0% 200%;
-	background-size: contain;
-	background-repeat: no-repeat;
-}
-
 .semiopaque {
 	opacity: 0.93;
 	background-color: white;
-}
-
-#bgmask {
-	width: 100%;
-	height: 100%;
-	background-image: url("images/BGMASK.svg");
-	background-repeat: no-repeat;
-	background-size: cover;
-	position: fixed;
-	z-index: -3;
 }
 
 img.icons {
