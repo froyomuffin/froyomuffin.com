@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="141px" height="141px" viewBox="0 0 141 141" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>Muffin</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M113.988103,60.0042284 C113.99602,59.6704116 114,59.3356549 114,59 C114,35.2517546 94.0766726,16 69.5,16 C44.9233274,16 25,35.2517546 25,59 C25,59.3479049 25.0042758,59.6948448 25.0127795,60.0407732 L25.0127795,60.0407732 C24.5126099,60.0137284 24.0081888,60 23.5,60 C10.5213077,60 -1.42108547e-14,68.9543045 -1.42108547e-14,80 C-1.42108547e-14,91.0456955 10.5213077,100 23.5,100 C26.2456197,100 28.8812648,99.599271 31.3305915,98.8627867 L39.3707865,114 L39.6200576,114 C44.1174678,121.386027 53.1977254,123 69,123 C89.7978409,123 98.9518238,120.20428 101.338818,105.133267 L101.338819,105.133261 L104.814515,98.589596 C107.501352,99.4996482 110.432019,100 113.5,100 C126.478692,100 137,91.0456955 137,80 C137,69.0931082 126.741459,60.2253756 113.988103,60.0042284 Z" id="Muffin" stroke="#DDDDDD" stroke-width="6" sketch:type="MSShapeGroup" transform="translate(68.500000, 69.500000) rotate(-17.000000) translate(-68.500000, -69.500000) "></path>
+    </g>
+</svg>

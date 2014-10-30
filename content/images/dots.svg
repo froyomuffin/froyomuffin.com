@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="45px" height="45px" viewBox="0 0 45 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>dots</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Oval-5-+-Oval-5-+-Oval-5" sketch:type="MSLayerGroup" transform="translate(0.000000, 19.000000)" fill="#606060">
+            <path d="M22.5,5 C23.8807119,5 25,3.88071194 25,2.5 C25,1.11928806 23.8807119,0 22.5,0 C21.1192881,0 20,1.11928806 20,2.5 C20,3.88071194 21.1192881,5 22.5,5 Z" id="Oval-5" sketch:type="MSShapeGroup"></path>
+            <path d="M2.5,5 C3.88071194,5 5,3.88071194 5,2.5 C5,1.11928806 3.88071194,0 2.5,0 C1.11928806,0 0,1.11928806 0,2.5 C0,3.88071194 1.11928806,5 2.5,5 Z" id="Oval-5" sketch:type="MSShapeGroup"></path>
+            <path d="M42.5,5 C43.8807119,5 45,3.88071194 45,2.5 C45,1.11928806 43.8807119,0 42.5,0 C41.1192881,0 40,1.11928806 40,2.5 C40,3.88071194 41.1192881,5 42.5,5 Z" id="Oval-5" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
